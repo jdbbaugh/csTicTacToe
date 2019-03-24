@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeExercise", "TicTacToeExercise.csproj", "{69338E52-6892-425D-98FE-B119F10198EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69338E52-6892-425D-98FE-B119F10198EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69338E52-6892-425D-98FE-B119F10198EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69338E52-6892-425D-98FE-B119F10198EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69338E52-6892-425D-98FE-B119F10198EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
